@@ -1,16 +1,15 @@
-body    {
+body {
   background-color: #AF80C0;
   }
 
-hr       {
-  border: none;
-  border-style:none;
+hr {
+  border-style:solid;
     border: grey;
     border: 5px;
     width: 30%;
   }
-  
-img{
+
+img {
     border-radius: 50%;
 }
 
