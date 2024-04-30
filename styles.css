@@ -1,12 +1,11 @@
 body {
-  background-color: #AF80C0;
+  background-color: #9DD8D4;
   }
 
 hr {
   border-style:solid;
-    border: grey;
+    border: rgb(255, 255, 255);
     border: 5px;
-    width: 30%;
   }
 
 img {
