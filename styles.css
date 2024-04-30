@@ -2,12 +2,6 @@ body {
   background-color: #9DD8D4;
   }
 
-hr {
-  border-style:solid;
-    border: rgb(255, 255, 255);
-    border: 5px;
-  }
-
 img {
     border-radius: 50%;
 }
