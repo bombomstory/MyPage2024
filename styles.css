@@ -6,6 +6,9 @@ img {
     border-radius: 50%;
 }
 
+hr {
+  border-style: solid;
+}
 emoji-presentation {
   font-variant-emoji: 2B50;
 }
